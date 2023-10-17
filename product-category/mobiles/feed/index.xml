@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobiles &#8211; Woocommerce_demo</title>
+	<atom:link href="/product-category/mobiles/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 26 May 2023 06:20:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/wordp_logo-100x100.png</url>
+	<title>Mobiles &#8211; Woocommerce_demo</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>S Universe D46</title>
+		<link>/product/samsung-universe-d46/</link>
+					<comments>/product/samsung-universe-d46/#respond</comments>
+		
+		<dc:creator><![CDATA[geomar]]></dc:creator>
+		<pubDate>Tue, 23 May 2023 20:24:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=581</guid>
+
+					<description><![CDATA[Vestibulum non rhoncus elit. Aliquam ultrices sit amet eros eget pharetra. Morbi risus nisi, aliquet id pellentesque at, ullamcorper eu ligula. Aenean lobortis volutpat arcu mollis mattis. Quisque maximus, ligula non facilisis malesuada, magna dolor hendrerit magna, a varius turpis nunc in enim. Maecenas placerat magna ante. Ut maximus odio in auctor maximus. Mauris bibendum [&#8230;]]]></description>
+		
+					<wfw:commentRss>/product/samsung-universe-d46/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
