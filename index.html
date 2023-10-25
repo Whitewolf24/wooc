@@ -1695,15 +1695,27 @@
 			visibility: hidden !important;
 		}
 
-		#logo {
-			position: relative !important;
-			left: 6rem !important;
-			bottom: 1rem !important;
-		}
+
 
 		#cart {
-			left: 12rem !important;
-			top: 1.55rem !important;
+			left: 5rem !important;
+			top: 1rem !important;
+		}
+
+		@media only screen and (min-width: 768px) {
+			#logo {
+				position: relative !important;
+				bottom: 0rem !important;
+				top: 0.2rem;
+			}
+		}
+
+		@media only screen and (max-width: 768px) and (min-width: 480px) {
+			#logo {
+				position: relative !important;
+				left: 6rem !important;
+				bottom: 1rem !important;
+			}
 		}
 
 		@media only screen and (max-width: 480px) {
